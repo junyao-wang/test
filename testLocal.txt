@@ -1,3 +1,8 @@
 hello world new new
 hello world new old
+<<<<<<< HEAD
 he is very  no nmore no 
+=======
+he is very yes yes
+he is very  no no no 
+>>>>>>> 9620ec93d99ca81e400804f61d1156239d3b8856
